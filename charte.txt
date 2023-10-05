@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-Voici notre proposition d'article pour la Charte du groupe Dev 2023 2024, pour devenir Concepteur Developpeur.
-=======
-Voici notre proposition pour la Charte du groupe Dev 2023 2024.
+Voici notre proposition pour la Charte de l'eau en poudre.
 
 Article 1 : 
 We have to be bienveillant and kind towards each others !
->>>>>>> 93e0ae6 (Article 2)
+
+Article 2 :
+On se présente à l'heure en cours.
